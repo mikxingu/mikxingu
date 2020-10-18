@@ -1,11 +1,15 @@
-### Hi there :boy: :metal: :musical_note:
+## Hi there :boy: :metal: :musical_note:
 
 I'm a tech enthusiast, currently learning about software development in general.
 I'm adicted to problem solving and creating new solutions.
 
 I'm also a :guitar:Guitar Player,  :tent: Campist and a :rocket:Motorcycle rider on the weekends.
 
-- :computer: I’m currently working on Happy 2.0 and on My blog.
+- :computer: I’m currently working on :
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=mikxingu&repo=Happy-frontend)](https://github.com/mikxingu/Happy-frontend)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=mikxingu&repo=Happy-frontend)](https://github.com/mikxingu/Happy-frontend)
+
 
 - :closed_book: I’m currently learning about Software Development.
 
