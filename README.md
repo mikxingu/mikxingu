@@ -7,7 +7,7 @@ I'm also a :guitar:Guitar Player,  :tent: Campist and a :rocket:Motorcycle rider
 
 - :computer: I’m currently working on :
 
-NOT WORKING IN ANY PROJECT
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=bruno-novo-it&repo=python_virtual_assistant)](https://github.com/bruno-novo-it/python_virtual_assistant)
 
 - :closed_book: I’m currently learning about Software Development.
 
