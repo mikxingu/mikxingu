@@ -1,17 +1,13 @@
 ## Hi there :boy: :metal: :musical_note:
 
-I'm a tech enthusiast, currently learning about software development in general.
-I'm adicted to problem solving and creating new solutions.
+I'm a tech enthusiast, adicted to problem solving and creating new solutions.
 
 I'm also a :guitar:Guitar Player,  :tent: Campist and a :rocket:Motorcycle rider on the weekends.
 
 - :computer: I’m currently working on :
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mikxingu&repo=dsdelivery-sds2)](https://github.com/mikxingu/dsdelivery-sds2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=bruno-novo-it&repo=python_virtual_assistant&show_owner=true)](https://github.com/bruno-novo-it/python_virtual_assistant)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=bruno-novo-it&repo=python_virtual_assistant)](https://github.com/bruno-novo-it/python_virtual_assistant)
-
-- :closed_book: I’m currently learning about Software Development.
-
-- :open_hands: I’m looking to collaborate on whatever I can help you with and learn something new at the same time.
 
 - 📫 How to reach me: :briefcase:[Linkedin](https://www.linkedin.com/in/michel-alves-almeida-leite-84976315a/)
                        :camera:[Instagram](https://www.instagram.com/mikeriderbr)
@@ -21,6 +17,8 @@ I'm also a :guitar:Guitar Player,  :tent: Campist and a :rocket:Motorcycle rider
 
 
 - Here are some of my stats:
-                       
-[![My github stats](https://github-readme-stats.vercel.app/api?username=mikxingu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikxingu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)       
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=mikxingu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)               
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikxingu&show_icons=true&theme=merko&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)       
 
