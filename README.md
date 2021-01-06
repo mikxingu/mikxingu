@@ -5,6 +5,7 @@ I'm a tech enthusiast, adicted to problem solving and creating new solutions.
 I'm also a :guitar:Guitar Player,  :tent: Campist and a :rocket:Motorcycle rider on the weekends.
 
 - :computer: I’m currently working on :
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mikxingu&repo=dsdelivery-sds2)](https://github.com/mikxingu/dsdelivery-sds2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=bruno-novo-it&repo=python_virtual_assistant&show_owner=true)](https://github.com/bruno-novo-it/python_virtual_assistant)
 
