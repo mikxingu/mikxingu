@@ -2,7 +2,7 @@
 
 I'm a brazilian self taught developer looking for oportunities to work, especially on english speaking countries.
 
-## Here are my top 3 languages:
+## Here are my most used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikxingu&layout=compact&theme=highcontrast&hide=ShaderLab)](https://github.com/mikxingu/github-readme-stats)
 
