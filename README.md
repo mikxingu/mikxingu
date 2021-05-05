@@ -1,13 +1,15 @@
 ## Hi!  🇧🇷 👨‍💻 🖥️
 
-I'm a brazilian IT consultant and self taught developer. I'm currently studying and learning about C# / .NET. My interests are:
+I'm a brazilian self taught developer currently working at TO Brasil.
+I'm always studying and learning new technologies. My interests are:
 
-* C# / .NET Development
+
 * Back-End Development
+* C# / .NET Development
 * Game Development using C# and Unity
 
 
-I'm looking for oportunities to work, especially on english speaking countries.
+I'm always open to new opportunities, especially to work overseas. You can contact me via [E-mail](maito:michelalvs@gmail.com) or on my social media links at the end of this page.
 
 ## 💻 These are the apps I developed: 
 
