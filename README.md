@@ -58,10 +58,6 @@ Programming Languages             |  Databases    | Frameworks | Tools | OS
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mikxingu&repo=hexmap_editor&theme=highcontrast" />
 </a>
 
-<a href="https://github.com/mikxingu/TotheRescYou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikxingu&repo=TotheRescYou&theme=highcontrast" />
-</a>
-
 
 ## Event Projects 🖥️
 
