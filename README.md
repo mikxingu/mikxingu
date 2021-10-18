@@ -22,11 +22,11 @@ My specialty is back-end development, but I've worked with some front-end framew
 
 ### My carreer goals are:
 
-- [x] Start working professionally at a Tech Company - ✔️ Started on May/2021.
+- [x] Start working professionally as a developer at a Tech Company - ✔️ Started on May/2021.
 - [ ] Be recognized as a Senior Software Engineer.
-- [ ] Travel overseas (if possible, moving to work in another country).
+- [ ] Travel overseas before my 30's. (if possible, moving to work in another country).
 - [ ] Give a speech on a big Tech conference after some years of experience (Minimum 5).
-- [ ] Create an Open-Source software that has over 1000 downloads.
+- [ ] Create an Open-Source software that has over 1000 downloads/stars.
 - [ ] Have a sum of 100 stars on my repos.
 - [ ] Create software that is used at least by one big company.
 - [ ] Close 100 issues on Github repos that are not mine. - ⏳ 3 and counting...
@@ -49,11 +49,14 @@ Programming Languages             |  Databases    | Frameworks | Tools | OS
 
   <!-- Table Structure:
       ![](Language) | [](Database)  | [](Framework) | [](Tool) | [](OS)
-  -->
-  
+  -->  
 
+## A brief history about me
 
-I started my Dev journey using C#. This is the language used by the Unity Editor, and 
+I started my Dev journey using C#. This is the language used by the Unity Editor, and it was the door for me to enter the world of software development.
+After a few months experimenting with the engine and following some tutorials, I started to dig deep into the C# frameworks and how it works. As development is an ocean of technologies and there are many different possibilities, I started testing Java, Python, React, Angular, PHP, NodeJS, and so on... At the time, I was still unsure on what tech stack I should focus. After carefully thinking of all the possibilities, around April/2021 I decided that I'd go all in on the .NET framework stack, and so I did. Only to find a month later, after 2 or 3 interviews, that I'd start working at Santander using Java and Camel.
+I had never heard of Camel by that time, and I remember the first days at my first dev job seeing that weird code sintax (Camel uses a custom language combined with regular Java code). Nevertheless, I started eating code. I bought a course on Udemy about Camel, practiced every single day, and after 3 or 4 months, I became an excellent Java/Camel programmer, and both Java and Camel got their spot on my heart, to the point that I can easily say that Java is the language that I dominate at the moment, and I'll be following the Java path until I find something more interesting to work with. That was the story of my Dev Journey so far. I'm sure many more chapters will come.
+
 
 ## Apps Developed 💻  
 <div>
@@ -108,7 +111,7 @@ I started my Dev journey using C#. This is the language used by the Unity Editor
         
 
 ## Contact
-I'm always open to new opportunities, especially to work overseas. You can contact me via my social media links down below:
+You can contact me via my social media links down below:
 
 <a href="mailto:michelalvs@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
