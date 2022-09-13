@@ -23,7 +23,7 @@ My specialty is back-end development, but I've worked with some front-end framew
 ### My carreer goals are:
 
 - [x] Start working professionally as a developer at a Tech Company - ✔️ Started on May/2021.
-- [ ] Be recognized as a Senior Software Engineer.
+- [x] Be recognized as a Senior Software Engineer. - ✔️ Promoted to IT Senior Analyst on Sep/2022.
 - [ ] Travel overseas before my 30's. (if possible, moving to work in another country).
 - [ ] Give a speech on a big Tech conference after some years of experience (Minimum 5).
 - [ ] Create an Open-Source software that has over 1000 downloads/stars.
@@ -43,8 +43,8 @@ Programming Languages             |  Databases    | Frameworks | Tools | OS
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  | ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  | ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  | ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) | ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white) | ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-  [](Language) | [](Database)  | ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | [](OS)
-  [](Language) | [](Database)  | ![](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white) | ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) | [](OS)
+  ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  | ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | [](OS)
+  [](Language) | [](Database)  | ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=whit) | ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) | [](OS)
 
 
   <!-- Table Structure:
