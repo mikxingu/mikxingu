@@ -24,14 +24,14 @@ My specialty is back-end development, but I've worked with some front-end framew
 
 - [x] Start working professionally as a developer at a Tech Company - ✔️ Started on May/2021.
 - [x] Be recognized as a Senior Software Engineer. - ✔️ Promoted to IT Senior Analyst on Sep/2022.
+- [ ] Have a sum of 100 stars on my repos.
+- [ ] Have a repo with over 1000 downloads/stars.
+- [ ] Create a game that has over 1000 downloads.
 - [ ] Travel overseas before my 30's. (if possible, moving to work in another country).
 - [ ] Give a speech on a big Tech conference after some years of experience (Minimum 5).
-- [ ] Create an Open-Source software that has over 1000 downloads/stars.
-- [ ] Have a sum of 100 stars on my repos.
-- [ ] Create software that is used at least by one big company.
-- [ ] Close 100 issues on Github repos that are not mine. - ⏳ 3 and counting...
-- [ ] Create a game that has over 1000 downloads.
+- [ ] Create software that is used by at least one big company.
 - [ ] Publish a game on Steam.
+- [ ] Become a *F'ing* millionaire
 - [ ] Retire at 40.
 - [ ] Open a Dev Company.
 
@@ -61,8 +61,8 @@ I had never heard of Camel by that time, and I remember the first days at my fir
 ## Apps Developed 💻  
 <div>
   
-<a href="https://github.com/mikxingu/WebSales">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mikxingu&repo=WebSales&theme=highcontrast" />
+<a href="https://github.com/mikxingu/facilitair-web">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mikxingu&repo=facilitair-web&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/mikxingu/dsdelivery-sds2">
