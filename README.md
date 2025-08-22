@@ -1,18 +1,15 @@
 ## 🇧🇷 👨‍💻 Hello!  
 
-I'm Michel, a self-taught developer from Brazil with strong communication skills.
-Currently working at a multinational bank as a Senior Software Engineer, focused on backend development using Java and Python.
+I'm Michel, a self-taught developer from Brazil with strong communication skills. I have skills for Java, Python and C# development.
+I'm the founder of [TechStrike Game Studio](https://github.com/TechStrikeBrasil) — an indie Brazilian game studio. My current goal is to publish high-quality Brazilian games. 
 
-I'm also the founder of [TechStrike Game Studio](https://github.com/TechStrikeBrasil) — an indie Brazilian game studio — and [TechStrike IT Support](https://github.com/TechStrike-IT-Support), a small company where I manage the IT infrastructure for a large client in São Paulo.
-
-My current goal is to publish high-quality Brazilian games. I'm currently leaning into C#, Unity, and mobile development.
-
-If you're working on exciting projects involving C#, .NET (backend), Unity (games), or .NET MAUI (mobile), feel free to connect — I'd love to chat!
+I'm available for hire, so uf you're working on exciting projects feel free to connect — I'd love to chat! I'm available to work as a contractor.
 
 ## 🚀 Current Projects
 
+* 🍴 **Meu Restaurante Brazuca**  — A brazilian restaurant delivery game. Expected launch on September/2025 on  [Itch.io]()
 * 🎮 **Verdant Valley** — a cozy farming game inspired by classics like *Harvest Moon*. Now available on [Google Play](https://play.google.com/store/apps/details?id=com.techstrikebrasil.verdantvalley&hl=en).
-* 🧙‍♂️ **HexPG** — a modular, turn-based RPG campaign platform inspired by *For The King* and *D&D*. Currently in development — iterating on my [HexMap Project](https://github.com/mikxingu/hexmap_editor).
+* 🧙‍♂️ **HexPG** — a modular, turn-based RPG campaign platform inspired by *For The King* and *D&D*. On Hold — iterating on my [HexMap Project](https://github.com/mikxingu/hexmap_editor).
 
 
 ## 📈 Github Stats 
