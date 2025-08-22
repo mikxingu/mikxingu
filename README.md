@@ -7,7 +7,7 @@ I'm available for hire, so if you're working on exciting projects, feel free to 
 
 ## 🚀 Current Projects
 
-* 🍴 **Meu Restaurante Brazuca**  — A brazilian restaurant delivery game. Expected launch on September/2025 on  [Itch.io]()
+* 🍴 **Meu Restaurante Brazuca**  — A brazilian restaurant delivery game. Expected launch on September/2025 on  [Itch.io](https://tstrikebrasil.itch.io/meu-restaurante-brazuca)
 * 🎮 **Verdant Valley** — a cozy farming game inspired by classics like *Harvest Moon*. Now available on [Google Play](https://play.google.com/store/apps/details?id=com.techstrikebrasil.verdantvalley&hl=en).
 * 🧙‍♂️ **HexPG** — a modular, turn-based RPG campaign platform inspired by *For The King* and *D&D*. On Hold — iterating on my [HexMap Project](https://github.com/mikxingu/hexmap_editor).
 
