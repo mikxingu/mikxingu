@@ -3,7 +3,7 @@
 I'm Michel, a self-taught developer from Brazil with strong communication skills. I have skills for Java, Python and C# development.
 I'm the founder of [TechStrike Game Studio](https://github.com/TechStrikeBrasil) — an indie Brazilian game studio. My current goal is to publish high-quality Brazilian games. 
 
-I'm available for hire, so uf you're working on exciting projects feel free to connect — I'd love to chat! I'm available to work as a contractor.
+I'm available for hire, so if you're working on exciting projects, feel free to connect. I'm available to work as a contractor.
 
 ## 🚀 Current Projects
 
