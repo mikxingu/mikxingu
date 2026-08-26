@@ -1,31 +1,46 @@
-## 🇧🇷 👨‍💻 Hello!  
+# 👋 Hello!
 
-I'm Michel, a self-taught developer from Brazil with strong communication skills. I have skills for Java, Python and C# development.
-I'm the founder of [TechStrike Game Studio](https://github.com/TechStrikeBrasil) — an indie Brazilian game studio. My current goal is to publish high-quality Brazilian games. 
+I'm Michel, a **Software Engineer from Brazil** with 5+ years of professional experience building and modernizing large-scale backend systems for major financial institutions.
+My professional background is primarily focused on **backend development, distributed systems, microservices, and cloud-based applications**, with experience in technologies such as **Java, Spring Boot, Python, C#, AWS, and Azure**.
 
-I'm available for hire, so if you're working on exciting projects, feel free to connect. I'm available to work as a contractor.
+I enjoy solving complex problems, understanding the business behind the software, and turning ideas into reliable, scalable products. I also have strong communication skills and enjoy collaborating with both technical teams and project stakeholders.
+Outside of professional software development, I'm an **indie game developer and founder of [TechStrike Game Studio](https://github.com/TechStrikeBrasil)**, where I design, develop, and publish original games.
+Building games gives me the opportunity to explore product development from end to end. From an initial idea to development, release, and getting the product into players' hands.
 
-## 🚀 Current Projects
+## 🛠️ Technical Focus
 
-* 🍴 **Meu Restaurante Brazuca**  — A brazilian restaurant delivery game. Expected launch on September/2025 on  [Itch.io](https://tstrikebrasil.itch.io/meu-restaurante-brazuca)
-* 🎮 **Verdant Valley** — a cozy farming game inspired by classics like *Harvest Moon*. Now available on [Google Play](https://play.google.com/store/apps/details?id=com.techstrikebrasil.verdantvalley&hl=en).
-* 🧙‍♂️ **HexPG** — a modular, turn-based RPG campaign platform inspired by *For The King* and *D&D*. On Hold — iterating on my [HexMap Project](https://github.com/mikxingu/hexmap_editor).
+**Backend**
 
+* Java / Spring Boot
+* Python
+* C#
+* REST APIs
+* Microservices
+* Distributed Systems
+* Event-Driven Architecture
 
-## 📈 Github Stats 
+**Cloud & Infrastructure**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikxingu&show_icons=true&theme=highcontrast&hide=stars" />
-</a>
+* AWS
+* Azure
+* Docker
+* CI/CD
 
-<a href="https://github.com/mikxingu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikxingu&layout=compact&theme=highcontrast&hide=ShaderLab" />
-</a>
+**Frontend**
 
-        
+* React
+  
+**Game Development**
 
-## 📬 Contact
-Feel free to reach out through the links below:
+* Unity
+* C#
+* Game architecture and systems
+* Procedural generation
+* Gameplay programming
+
+## 📬 Let's Connect
+
+I'm always interested in interesting engineering challenges, product ideas, and opportunities to collaborate.
 
 <a href="mailto:michelalvs@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
